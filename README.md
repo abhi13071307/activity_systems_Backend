@@ -39,14 +39,12 @@ Events are delivered via:
 ## Running Locally
 
 ### Backend
-```bash
 npm install
 npm run dev
 
 ---
 
 ### Frontend
-```bash
 cd frontend
 npm install
 npm run dev
